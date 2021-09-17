@@ -1,1 +1,0 @@
-do not remove anything in this folder, to change the image just drag and drop and rename the image to: "image.png"
