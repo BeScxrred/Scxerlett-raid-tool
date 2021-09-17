@@ -2,12 +2,9 @@ from operator import truediv
 import time
 import sys
 import os
-import requests
-import ctypes
 import discord
 from termcolor import colored
 from discord.ext import commands
-from halo import Halo
 
 SKIP_BOTS = False
 token=input("Please provide token: ")
